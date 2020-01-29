@@ -1,0 +1,66 @@
+C0								
+
+fresh fruits                     29.362087				
+fresh vegetables                 26.156491
+packaged vegetables fruits       14.382174
+yogurt                           11.969053
+packaged cheese                   8.004453
+milk                              7.210890
+water seltzer sparkling water     6.821146
+chips pretzels                    6.028968
+soy lactosefree                   5.275777
+refrigerated                      4.822160
+
+
+C1
+
+fresh fruits                     5.657606
+fresh vegetables                 5.222033
+packaged vegetables fruits       3.067424
+yogurt                           2.515339
+water seltzer sparkling water    2.217878
+packaged cheese                  2.000197
+milk                             1.758219
+chips pretzels                   1.738173
+ice cream ice                    1.361585
+soft drinks                      1.297067
+
+
+C2
+
+fresh vegetables              175.907537
+fresh fruits                  148.958130
+packaged vegetables fruits     67.303908
+yogurt                         38.002791
+packaged cheese                29.180740
+milk                           27.087230
+fresh herbs                    19.195743
+soy lactosefree                19.048849
+bread                          17.096999
+frozen produce                 16.823098
+
+C3
+
+fresh vegetables                 78.328838
+fresh fruits                     63.599983
+packaged vegetables fruits       32.072844
+yogurt                           17.931652
+packaged cheese                  14.943889
+milk                             12.810023
+soy lactosefree                  10.233267
+water seltzer sparkling water     9.158092
+fresh herbs                       8.867549
+frozen produce                    8.751166
+
+c4
+
+fresh fruits                     119.714722
+yogurt                            76.018889
+packaged vegetables fruits        42.756389
+fresh vegetables                  40.664444
+milk                              30.282778
+packaged cheese                   27.336111
+water seltzer sparkling water     25.147222
+chips pretzels                    21.883333
+baby food formula                 21.120833
+energy granola bars               20.676389

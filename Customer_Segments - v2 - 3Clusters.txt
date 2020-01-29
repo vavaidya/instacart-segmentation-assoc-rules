@@ -1,0 +1,65 @@
+c0
+fresh fruits                     7.529525
+fresh vegetables                 6.968303
+packaged vegetables fruits       4.003197
+yogurt                           3.289869
+water seltzer sparkling water    2.614979
+packaged cheese                  2.502465
+milk                             2.205055
+chips pretzels                   2.110154
+ice cream ice                    1.606722
+soy lactosefree                  1.597508
+refrigerated                     1.574445
+bread                            1.528545
+soft drinks                      1.439094
+frozen meals                     1.368673
+frozen produce                   1.337125
+crackers                         1.276169
+eggs                             1.202163
+energy granola bars              1.146811
+cereal                           1.130643
+packaged produce                 1.096179
+
+c1
+fresh fruits                     46.474079
+fresh vegetables                 43.999157
+packaged vegetables fruits       22.139600
+yogurt                           18.355684
+packaged cheese                  11.693036
+milk                             10.704310
+water seltzer sparkling water     9.257589
+chips pretzels                    8.144004
+soy lactosefree                   7.915397
+bread                             6.886602
+refrigerated                      6.817427
+frozen produce                    6.332979
+energy granola bars               5.648595
+eggs                              5.435134
+ice cream ice                     5.284853
+crackers                          5.275328
+fresh herbs                       4.890600
+baby food formula                 4.810400
+lunch meat                        4.729856
+fresh dips tapenades              4.238101
+
+c2
+fresh fruits                     130.994871
+fresh vegetables                 123.522567
+packaged vegetables fruits        56.624853
+yogurt                            46.011870
+packaged cheese                   27.333968
+milk                              26.262309
+soy lactosefree                   17.209115
+baby food formula                 16.166032
+chips pretzels                    15.904601
+bread                             15.899766
+water seltzer sparkling water     15.745750
+frozen produce                    14.080305
+refrigerated                      13.786635
+fresh herbs                       13.456624
+energy granola bars               12.248242
+eggs                              11.269197
+crackers                          11.186401
+lunch meat                        10.465416
+fresh dips tapenades               9.364742
+ice cream ice                      8.835727
