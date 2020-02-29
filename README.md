@@ -11,14 +11,14 @@ The task at hand for Instacart is two fold.
 3. Product Recommendations - Once you've identified your target customers, what products to recommend?
 
 ## APPROACH AND CONCEPTS
-* Data merging and data matrix creation - Joined multiple tables to get final dataframe at a customer level with all individual product aisles as columns and values under those columns represeting the number of times customer bought from those aisles
-* PCA - Reduced data across 134 columns to 6 principal components explaining 51% of the original variance
-* K-means clustering - Used pc's to cluster segments into 3 distinct clusters backed by business intution and elbow plot
-* Association based Recommender System 1 - Implemented the apriori algorithm using python generator functions, setting min support to 0.01 and filtering for lift values more than 10
-* Recommender System 2 - Created a heuristic recommendation based on a products repeat ordering frequency from the ideal customer segment. Suggesting such products to target customers buying products with less repetition
+* **Data merging and data matrix creation** - Joined multiple tables to get final dataframe at a customer level with all individual product aisles as columns and values under those columns represeting the number of times customer bought from those aisles
+* **PCA** - Reduced data across 134 columns to 6 principal components explaining 51% of the original variance
+* **K-means clustering** - Used pc's to cluster segments into 3 distinct clusters backed by business intution and elbow plot
+* **Association based Recommender System 1** - Implemented the apriori algorithm using python generator functions, setting min support to 0.01 and filtering for lift values more than 10
+* **Recommender System 2** - Created a heuristic recommendation based on a products repeat ordering frequency from the ideal customer segment. Suggesting such products to target customers buying products with less repetition
 
 ## RESULTS
-* Target customers make up to 81% of the customer population and buy 3 times less often with have half the basket size of the ideal customer
+* Target customers make up to 81% of the customer population and buy 3 times less often with half the basket size of the ideal customer
 * Recommender System 1 - Suggested complimentary products based on lift scores. Limitation - over 31% of transactions were coming from 4 aisles only namely Fresh Fruits, Fresh Vegetables, Packed Veg and Fruits and Yogurt
 
 ## LEARNINGS
